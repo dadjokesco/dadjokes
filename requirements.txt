@@ -1,0 +1,14 @@
+# Google Cloud libraries
+google-cloud-storage
+google-cloud-secret-manager
+functions-framework
+
+# Image processing
+Pillow
+
+# HTTP requests (e.g., for Instagram Graph API)
+requests
+
+# Data management for Google Sheets API
+gspread
+oauth2client
